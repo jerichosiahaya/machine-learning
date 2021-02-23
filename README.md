@@ -1,4 +1,4 @@
-My learning path on Machine Learning and all the projects I've worked on.
+![](https://cdn.pixabay.com/photo/2017/06/05/10/15/landscape-2373649_960_720.jpg)
 
 ## Exercise
 > Collections of all my exercise
