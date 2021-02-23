@@ -14,8 +14,14 @@ My learning path on Machine Learning and all the projects I've worked on.
 
 ## Rapid Miner
 
-
+- Week 1: Getting Started With Rapid Miner [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%201)]
+- Week 2: Data Exploration [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%202)]
+- Week 3: Classification [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%203)]
+- Week 4: Regression Methods [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%204)]
 
 
 ## Books
-1. 
+
+1. [Naked Statistics: Stripping the Dread from the Data by Charles Wheelan](https://github.com/jerichosiahaya/machine-learning/blob/main/books/Naked%20Statistics-%20Stripping%20the%20Dread%20from%20the%20Data%20(%20PDFDrive%20).pdf)
+2. [OpenIntro Statistics Textbook by Christopher D. Barr, David M. Diez, and Mine Çetinkaya-Rundel](https://github.com/jerichosiahaya/machine-learning/blob/main/books/openintro-statistics.pdf)
+3. 
