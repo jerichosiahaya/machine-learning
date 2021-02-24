@@ -26,9 +26,11 @@
 > My weekly assignments from ML course using Rapid Miner in college
 
 - Week 1: Getting Started With Rapid Miner [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%201)]
-- Week 2: Data Exploration [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%202)]
-- Week 3: Classification [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%203)]
-- Week 4: Regression Methods [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%204)]
+- Week 2: Data Preparation [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%202)]
+- Week 3: Data Exploration [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%203)]
+- Week 4: Classification [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%204)]
+- Week 5: Regression Methods [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%205)]
+- Week 6: Association Analysis [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%206)]
 
 
 ## Books
