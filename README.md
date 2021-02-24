@@ -5,6 +5,7 @@
 
 - K-Means Clustering using Iris Dataset [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/exercise/k-means%20clustering%20using%20iris%20dataset)]
 - Decision Tree and Random Forest Classification using Titanic Dataset [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/exercise/titanic%20survivor%20classification)]
+- Rock Paper Scissors Image Detection using CNN [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/exercise/rock%20paper%20scissors%20image%20detection)]
 
 ## Mini Project
 > Mini or small project that I've worked on. 
