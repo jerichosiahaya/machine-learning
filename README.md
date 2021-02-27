@@ -12,6 +12,7 @@
 
 - Analyzing Fleet Foxes New Album 'Shore' Using Python NLP [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/mini%20project/fleet%20foxes%20album%20shore%20text%20mining)] [[📰](https://medium.com/analytics-vidhya/analyzing-fleet-foxes-new-album-shore-using-python-e737fc40f3ef)]
 - Analyzing Bank Mandiri Stock Market using Sentiment Analysis from Twitter [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/mini%20project/sentiment%20vs%20stock)]
+- Analyzing Fleet Foxes’s Top 5 Favorite Songs Using R [[📰](https://medium.com/analytics-vidhya/analyzing-fleet-foxess-top-5-favorite-songs-using-r-7953daa4e403)]
 
 
 ## College
