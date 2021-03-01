@@ -33,6 +33,7 @@
 - Week 4: Classification [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%204)]
 - Week 5: Regression Methods [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%205)]
 - Week 6: Association Analysis [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%206)]
+- Week 7: Clustering [[[[📂](](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%207)]
 
 
 ## Books
