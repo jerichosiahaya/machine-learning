@@ -24,6 +24,7 @@
 - Week 4: Supervised Learning 1 [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/college/Week%204)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jerichosiahaya/machine-learning/blob/main/college/Week%204/W04_JerichoCristofelSiahaya_32932.ipynb)
 - Week 5: Supervised Learning 2 [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/college/Week%205)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jerichosiahaya/machine-learning/blob/main/college/Week%205/W05_JerichoCristofelSiahaya_32932.ipynb)
 - Week 6: Supervised Learning 3 [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/college/Week%206)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jerichosiahaya/machine-learning/blob/main/college/Week%206/W06_JerichoCristofelSiahaya_32932.ipynb)
+- Week 7: Supervised Learning 4 [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/college/Week%207)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jerichosiahaya/machine-learning/blob/main/college/Week%207/W07_JerichoCristofelSiahaya_32932.ipynb)
 
 ## Rapid Miner
 > My weekly assignments from ML course using Rapid Miner in college
