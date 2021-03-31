@@ -38,6 +38,10 @@
 - Week 6: Association Analysis [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%206)]
 - Week 7: Clustering [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/rapid%20miner/Week%207)]
 
+## DQLab Module
+> Source code from DQLab learning module
+
+- [[📂](https://github.com/jerichosiahaya/machine-learning/blob/main/dqlab%20module/Data_Quality_with_Python_for_Beginner_Jericho_Siahaya.ipynb)] [[📄](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2JCIHQK)] Data Quality with Python for Beginner 
 
 ## Books
 > Books about AI, ML, DL, Statistic, etc 📚
