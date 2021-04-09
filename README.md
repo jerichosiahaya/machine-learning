@@ -26,6 +26,8 @@
 - Week 6: Supervised Learning 3 [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/college/Week%206)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jerichosiahaya/machine-learning/blob/main/college/Week%206/W06_JerichoCristofelSiahaya_32932.ipynb)
 - Week 7: Supervised Learning 4 [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/college/Week%207)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jerichosiahaya/machine-learning/blob/main/college/Week%207/W07_JerichoCristofelSiahaya_32932.ipynb)
 - Week 8: Unsupervised Learning 1 [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/college/Week%208)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jerichosiahaya/machine-learning/blob/main/college/Week%208/W08_JerichoCristofelSiahaya_32932.ipynb)
+- Week 9: Unsupervised Learning 2 [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/college/Week%209)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jerichosiahaya/machine-learning/blob/main/college/Week%209/W09_JerichoCristofelSiahaya_32932.ipynb)
+- Week 10: Unsupervised Learning 3 [[📂](https://github.com/jerichosiahaya/machine-learning/tree/main/college/Week%2010)] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jerichosiahaya/machine-learning/blob/main/college/Week%2010/W10_JerichoCristofelSiahaya_32932.ipynb)
 
 ## Rapid Miner
 > My weekly assignments from ML course using Rapid Miner in college
@@ -41,7 +43,8 @@
 ## DQLab Module
 > Source code from DQLab learning module
 
-- [[📂](https://github.com/jerichosiahaya/machine-learning/blob/main/dqlab%20module/Data_Quality_with_Python_for_Beginner_Jericho_Siahaya.ipynb)] [[📄](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2JCIHQK)] Data Quality with Python for Beginner 
+- [[📂](https://github.com/jerichosiahaya/machine-learning/blob/main/dqlab%20module/Data_Quality_with_Python_for_Beginner_Jericho_Siahaya.ipynb)] [[📄](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2JCIHQK)] Data Quality with Python for Beginner
+-  [[📂](https://github.com/jerichosiahaya/machine-learning/blob/main/dqlab%20module/Statistic_using_Python_for_Data_Science_Part_1_Jericho_Siahaya.ipynb)] [[📄](https://academy.dqlab.id/certificate/pdf/DQLABSWP1%20GEGAWW/NONTRACK)] Statistic using Python for Data Science - Part 1
 
 ## Books
 > Books about AI, ML, DL, Statistic, etc 📚
